@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { useToast } from '@/hooks/use-toast';
-import { Mail, Github, Instagram, FaXTwitter, Send, MapPin, Phone } from 'lucide-react';
+import { Mail, Github, Instagram, Twitter, Send, MapPin, Phone } from 'lucide-react';
 
 const ContactSection = () => {
   const [formData, setFormData] = useState({

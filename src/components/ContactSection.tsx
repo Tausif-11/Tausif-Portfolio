@@ -77,7 +77,7 @@ const ContactSection = () => {
       href: 'https://instagram.com/de.code.tausif'
     },
     {
-      icon: FaXTwitter,
+      icon: Twitter,
       label: 'X (Twitter)',
       value: '@Tausif1147',
       href: 'https://x.com/Tausif1147'
